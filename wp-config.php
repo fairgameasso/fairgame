@@ -22,13 +22,13 @@
 define('DB_NAME', 'fairgame');
 
 /** Utilisateur de la base de données MySQL. */
-define('DB_USER', 'root');
+define('DB_USER', 'adminPwd3TLl');
 
 /** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', ' F4d8r_KyfrpQ');
 
 /** Adresse de l'hébergement MySQL. */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '127.2.160.2');
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
 define('DB_CHARSET', 'utf8mb4');
